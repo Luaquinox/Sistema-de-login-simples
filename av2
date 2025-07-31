@@ -1,0 +1,21 @@
+✅ Justificativa da estrutura do código:
+Variáveis:
+
+usuario_correto, senha_correta, usuario, senha, tentativas.
+
+Funções built-in:
+
+input(), print().
+
+Estrutura condicional:
+
+if, else, and.
+
+Estrutura de repetição:
+
+while tentativas < 3:.
+
+Operadores usados:
+
+==, !=, and, +=.
+
